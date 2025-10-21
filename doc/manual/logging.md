@@ -48,3 +48,5 @@ part of “debug” and every “warn” event will receive events from “error
     "torrent_*"
 
 All sub-groups have events from “critical” to “debug” defined.
+
+<!-- Auto-update: 2025-10-21T08:18:01.227526 -->
