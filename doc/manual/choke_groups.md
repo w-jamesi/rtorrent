@@ -26,3 +26,5 @@ list of the available heuristics.
     choke_group.down.max.set = -1,500
 
 Set the max total number of unchoked peers for all torrents in this choke group.
+
+<!-- Auto-update: 2025-10-26T08:09:50.928326 -->
