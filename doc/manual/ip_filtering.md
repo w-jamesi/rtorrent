@@ -62,3 +62,5 @@ connections) and ’preferred’ (currently used only in private code).
     { "preferred", PeerInfo::flag_preferred },
 
 Constants used by ipv4\_filter values.
+
+<!-- Auto-update: 2025-10-27T08:29:39.910822 -->
